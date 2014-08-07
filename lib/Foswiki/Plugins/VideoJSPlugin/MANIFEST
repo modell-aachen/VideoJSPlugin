@@ -1,0 +1,10 @@
+lib/Foswiki/Plugins/VideoJSPlugin.pm 0644
+lib/Foswiki/Plugins/VideoJSPlugin/Config.spec 0644
+locale/VideoJSPlugin/de.po 0644
+pub/System/VideoJSPlugin/css/qwiki.video.css 0644
+pub/System/VideoJSPlugin/fonts/vjs.eot 0644
+pub/System/VideoJSPlugin/fonts/vjs.svg 0644
+pub/System/VideoJSPlugin/fonts/vjs.ttf 0644
+pub/System/VideoJSPlugin/fonts/vjs.woff 0644
+pub/System/VideoJSPlugin/js/qwiki.video.js 0644
+pub/System/VideoJSPlugin/swf/video-js.swf 0644
